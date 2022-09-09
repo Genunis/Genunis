@@ -1,4 +1,5 @@
 <h1 align="center">Oii, eu me chamo jeniffer</h1>
+<img align="center" src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif"alt="jeniffer nicolly" height="90" width="80" />
 <h3 align="center">Sou desenvolvedora web-dev</h3>
 
 - 📫 How to reach me **jeniffer.nicolly9@gmail.com**
