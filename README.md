@@ -22,14 +22,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=limaaad&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   ##
  
-<div align="center"> 
-  <a href="https://www.instagram.com/limaaad_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabielle-de-lima-andrade-1624b7239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-</div>
 
-<a href="http://www.github.com/limaaad"><img src="https://activity-graph.herokuapp.com/graph?username=limaaad&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <img src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif"alt="jeniffer nicolly" margin-left="200" height="400" width="500" />
