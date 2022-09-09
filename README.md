@@ -5,10 +5,8 @@
 * 🌍 Moro em São Bernardo do Campo - Brasil
 * 💻 Possuo experiências em C#, C++, ,Python, Django, CSS, HTML e Javascript
 *  ❤️‍🔥 Eu amo Programar
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genunis&label=Profile%20views&color=0e75b6&style=flat" alt="genunis" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=genunis" alt="genunis" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
