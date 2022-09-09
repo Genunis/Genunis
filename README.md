@@ -17,6 +17,5 @@
 <a href="https://instagram.com/jeniffer_s20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeniffer_s20" height="30" width="40" /></a>
 <a href="https://discord.gg/JenifferNicolly#3614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jeniffer Nicolly#3614" height="30" width="40" /></a>
 </p>
-
-
+<div align="center">
 <img src="https://miro.medium.com/max/400/0*VV3Nmxgv3KX4sLhr.gif"alt="jeniffer nicolly" margin-left="200" height="400" width="500" />
